@@ -14,3 +14,6 @@ https://github.com/ces9960/IGME-470-Physical-Computing/blob/main/P1-Blink-Explan
 
 ## Schematic
 https://github.com/ces9960/IGME-470-Physical-Computing/blob/main/P1-Blink.fzz
+
+##Video
+https://github.com/ces9960/IGME-470-Physical-Computing/blob/main/Video_1.mov
